@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
 	<head>
-		<title>Subscriptions - chunjianye@gmail.com</title>
+		<title>Subscriptions - RSS</title>
 	</head>
 	<body>
 		<outline text="Blog" title="Blog">
@@ -15,20 +15,22 @@
 		<outline text="Design" title="Design">
 			<outline htmlUrl="http://androidniceties.tumblr.com/" title="Android Niceties" xmlUrl="http://androidniceties.tumblr.com/rss" type="rss" text="Android Niceties"/>
 			<outline htmlUrl="https://medium.com/design-ux" title="Design / UX — Medium" xmlUrl="https://medium.com/feed/design-ux" type="rss" text="Design / UX — Medium"/>
-			<outline htmlUrl="http://design-milk.com" title="Design Milk" xmlUrl="http://feeds.feedburner.com/design-milk" type="rss" text="Design Milk"/>
-			<outline htmlUrl="http://www.lukew.com" title="LukeW | Digital Product Design + St..." xmlUrl="http://feeds.feedburner.com/FunctioningForm" type="rss" text="LukeW | Digital Product Design + St..."/>
+			<outline title="Design Milk" xmlUrl="http://feeds.feedburner.com/design-milk" type="rss" text="Design Milk"/>
+			<outline htmlUrl="http://www.lukew.com" title="LukeW | Digital Product Design + Strategy" xmlUrl="http://feeds.feedburner.com/FunctioningForm" type="rss" text="LukeW | Digital Product Design + Strategy"/>
 			<outline htmlUrl="http://ucdchina.com/rss/all" title="所有文章 - UCD大社区" xmlUrl="http://ucdchina.com/rss/all" type="rss" text="所有文章 - UCD大社区"/>
 		</outline>
 		<outline text="IT" title="IT">
-			<outline title="engadget.com" xmlUrl="http://www.engadget.com//www.engadget.com/rss.xml" type="rss" text="engadget.com"/>
 			<outline htmlUrl="http://www.36kr.com/" title="36氪 | 关注互联网创业" xmlUrl="http://www.36kr.com/feed" type="rss" text="36氪 | 关注互联网创业"/>
 			<outline htmlUrl="http://worrydream.com/" title="Bret Victor's website" xmlUrl="http://worrydream.com/feed.xml" type="rss" text="Bret Victor's website"/>
+			<outline title="engadget.com" xmlUrl="http://www.engadget.com//www.engadget.com/rss.xml" type="rss" text="engadget.com"/>
 			<outline htmlUrl="http://firstround.com/" title="First Round Capital" xmlUrl="http://firstround.com/review/rss" type="rss" text="First Round Capital"/>
+			<outline htmlUrl="http://www.gv.com" title="Google Ventures" xmlUrl="http://feeds.feedburner.com/GVLibrary" type="rss" text="Google Ventures"/>
 			<outline htmlUrl="https://news.ycombinator.com/" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" type="rss" text="Hacker News"/>
-			<outline htmlUrl="http://krugman.blogs.nytimes.com/" title="Paul Krugman" xmlUrl="http://krugman.blogs.nytimes.com/feed/" type="rss" text="Paul Krugman"/>
+			<outline title="Paul Krugman" xmlUrl="http://krugman.blogs.nytimes.com/feed/" type="rss" text="Paul Krugman"/>
 			<outline htmlUrl="http://www.pingwest.com" title="PingWest中文网" xmlUrl="http://www.pingwest.com/feed/" type="rss" text="PingWest中文网"/>
 			<outline htmlUrl="http://news.dbanotes.net/" title="Startup News" xmlUrl="http://news.dbanotes.net/rss" type="rss" text="Startup News"/>
-			<outline htmlUrl="http://techcrunch.com" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch" type="rss" text="TechCrunch"/>
+			<outline title="TechCrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch" type="rss" text="TechCrunch"/>
+			<outline htmlUrl="http://www.techmeme.com/" title="Techmeme" xmlUrl="http://www.techmeme.com/feed.xml" type="rss" text="Techmeme"/>
 			<outline htmlUrl="http://thenextweb.com" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" type="rss" text="The Next Web"/>
 			<outline htmlUrl="http://www.wired.com" title="WIRED" xmlUrl="http://feeds.wired.com/wired/index" type="rss" text="WIRED"/>
 			<outline htmlUrl="http://online.wsj.com" title="WSJ.com: WSJD" xmlUrl="http://online.wsj.com/xml/rss/3_7455.xml" type="rss" text="WSJ.com: WSJD"/>
@@ -43,15 +45,15 @@
 			<outline htmlUrl="http://www.reddit.com/r/programming/" title="programming" xmlUrl="http://www.reddit.com/r/programming/.rss" type="rss" text="programming"/>
 			<outline htmlUrl="http://www.hanselman.com/blog/" title="Scott Hanselman's Blog" xmlUrl="http://feeds.feedburner.com/ScottHanselman" type="rss" text="Scott Hanselman's Blog"/>
 			<outline htmlUrl="http://thedailywtf.com/" title="The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" type="rss" text="The Daily WTF"/>
-			<outline htmlUrl="http://code.tutsplus.com" title="Tuts+ Web Development" xmlUrl="http://feeds.feedburner.com/nettuts" type="rss" text="Tuts+ Web Development"/>
+			<outline htmlUrl="http://code.tutsplus.com" title="Tuts+ Code - Web Development" xmlUrl="http://feeds.feedburner.com/nettuts" type="rss" text="Tuts+ Code - Web Development"/>
 			<outline htmlUrl="http://blog.jobbole.com" title="博客 - 伯乐在线" xmlUrl="http://blog.jobbole.com/feed/" type="rss" text="博客 - 伯乐在线"/>
 			<outline htmlUrl="http://blog.jobbole.com" title="博客 - 伯乐在线 » Android" xmlUrl="http://blog.jobbole.com/category/android/feed/" type="rss" text="博客 - 伯乐在线 » Android"/>
 			<outline htmlUrl="http://blog.csdn.net/luoshengyang" title="老罗的Android之旅" xmlUrl="http://blog.csdn.net/luoshengyang/rss/list" type="rss" text="老罗的Android之旅"/>
 			<outline htmlUrl="http://coolshell.cn" title="酷 壳 - CoolShell.cn" xmlUrl="http://coolshell.cn/feed" type="rss" text="酷 壳 - CoolShell.cn"/>
 		</outline>
 		<outline text="StartUp" title="StartUp">
-			<outline htmlUrl="http://andrewchen.co" title="Andrew Chen" xmlUrl="http://andrewchen.co/feed/" type="rss" text="Andrew Chen"/>
-			<outline htmlUrl="http://www.feld.com/wp" title="Feld Thoughts" xmlUrl="http://feeds.feedburner.com/FeldThoughts" type="rss" text="Feld Thoughts"/>
+			<outline htmlUrl="http://andrewchen.co" title="@andrewchen" xmlUrl="http://andrewchen.co/feed/" type="rss" text="@andrewchen"/>
+			<outline htmlUrl="http://www.feld.com" title="Feld Thoughts" xmlUrl="http://feeds.feedburner.com/FeldThoughts" type="rss" text="Feld Thoughts"/>
 			<outline htmlUrl="http://fourhourworkweek.com" title="The Blog of Author Tim Ferriss » Blog" xmlUrl="http://fourhourworkweek.com/blog/feed/" type="rss" text="The Blog of Author Tim Ferriss » Blog"/>
 		</outline>
 		<outline text="Stuff" title="Stuff">
