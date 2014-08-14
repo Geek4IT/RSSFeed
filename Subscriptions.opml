@@ -52,6 +52,7 @@
 			<outline htmlUrl="http://news.dbanotes.net/" title="Startup News" xmlUrl="http://news.dbanotes.net/rss" type="rss" text="Startup News"/>
 			<outline htmlUrl="http://techcrunch.com" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch" type="rss" text="TechCrunch"/>
 			<outline htmlUrl="http://thenextweb.com" title="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" type="rss" text="The Next Web"/>
+			<outline htmlUrl="http://www.theverge.com/" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" type="rss" text="The Verge"/>
 			<outline htmlUrl="http://www.wired.com" title="WIRED" xmlUrl="http://feeds.wired.com/wired/index" type="rss" text="WIRED"/>
 			<outline htmlUrl="http://online.wsj.com" title="WSJ.com: WSJD" xmlUrl="http://online.wsj.com/xml/rss/3_7455.xml" type="rss" text="WSJ.com: WSJD"/>
 			<outline htmlUrl="http://zaodula.com" title="互联网er的早读课，专注产品、用研、交互" xmlUrl="http://zaodula.com/feed" type="rss" text="互联网er的早读课，专注产品、用研、交互"/>
@@ -82,7 +83,7 @@
 			<outline htmlUrl="http://lifehacker.com" title="Lifehacker" xmlUrl="http://feeds.gawker.com/lifehacker/vip" type="rss" text="Lifehacker"/>
 			<outline htmlUrl="http://www.slideshare.net/" title="Recently Uploaded Slideshows" xmlUrl="http://www.slideshare.net/rss/latest" type="rss" text="Recently Uploaded Slideshows"/>
 			<outline htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=6cc7c4fc1c188e2df1434c386f759a23" title="ThinkGeek - What's New" xmlUrl="http://www.thinkgeek.com/thinkgeek.rss" type="rss" text="ThinkGeek - What's New"/>
-			<outline htmlUrl="http://www.coolapk.com" title="酷安Android应用更新" xmlUrl="http://www.coolapk.com/feed" type="rss" text="酷安Android应用更新"/>
+			<outline htmlUrl="http://www.coolapk.com" title="酷安安卓应用更新/Android" xmlUrl="http://www.coolapk.com/feed" type="rss" text="酷安安卓应用更新/Android"/>
 		</outline>
 	</body>
 </opml>
